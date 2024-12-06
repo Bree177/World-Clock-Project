@@ -54,7 +54,7 @@ select {
 
 .time small {
   font-size: 24px;
-  vertical-align: middle;
+  vertical-align: bottom;
   line-height: 48px;
 }
 
